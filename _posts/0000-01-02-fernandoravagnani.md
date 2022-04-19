@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Text from Fernando Ravagnani
 Use the left arrow to go back!
